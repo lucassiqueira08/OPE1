@@ -8,6 +8,8 @@ Bruno Lima dos Santos       RA:1700713
 
 Danilo Lopes do Nascimento  RA:1700255
 
+Isaque Felizardo            RA:1700525
+
 Lucas Alves Siqueira        RA:1700262
 
 Lucas Araujo de Oliveira    RA:1700424
