@@ -1,0 +1,4 @@
+Django==2.0.2
+django-pyodbc-azure==2.0.1.0
+pyodbc==4.0.22
+pytz==2018.3
